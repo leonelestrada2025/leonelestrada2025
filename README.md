@@ -8,8 +8,6 @@
 
 Desarrollador con experiencia construyendo aplicaciones web internas, APIs REST y herramientas de automatización para procesos operativos y administrativos. También con experiencia como QA Tester validando aplicaciones web y servicios API.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dcf4854a-f867-4d91-85e2-ac408370f31e" />
-
 📫 estradabarreraleonelarnulfo@gmail.com &nbsp;|&nbsp; 📱 5657054812
 
 ## 🚀 Sobre mí
