@@ -7,7 +7,7 @@
 Desarrollador con experiencia construyendo aplicaciones web internas, APIs REST y herramientas de automatización para procesos operativos y administrativos. También con experiencia como QA Tester validando aplicaciones web y servicios API.
 
 
-📫 estradabarreraleonelarnulfo@gmail.com &nbsp;|&nbsp; 📱 565 705 4812
+📫 estradabarreraleonelarnulfo@gmail.com &nbsp;|&nbsp; 📱 5657054812
 
 ## 🚀 Sobre mí
 
