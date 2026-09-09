@@ -1,4 +1,6 @@
 # Hola, soy Leonel Estrada 👋
+<img width="854" height="250" alt="image" src="https://github.com/user-attachments/assets/b1bd07a1-0409-4dbf-a19e-e2b6a36f1890" />
+
 <img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/416f6221-d403-4519-b11d-264d343747a8" />
 
 💻 **Desarrollador de Software** | Ingeniería en Computación (UAEMex, en curso)
