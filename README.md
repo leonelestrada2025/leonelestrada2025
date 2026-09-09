@@ -1,5 +1,5 @@
 # Hola, soy Leonel Estrada 👋
-<img width="854" height="250" alt="image" src="https://github.com/leonelestrada2025/leonelestrada2025" />
+
 
 <img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/416f6221-d403-4519-b11d-264d343747a8" />
 
@@ -8,6 +8,7 @@
 
 Desarrollador con experiencia construyendo aplicaciones web internas, APIs REST y herramientas de automatización para procesos operativos y administrativos. También con experiencia como QA Tester validando aplicaciones web y servicios API.
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dcf4854a-f867-4d91-85e2-ac408370f31e" />
 
 📫 estradabarreraleonelarnulfo@gmail.com &nbsp;|&nbsp; 📱 5657054812
 
