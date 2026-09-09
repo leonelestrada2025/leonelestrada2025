@@ -90,9 +90,8 @@ Abierto a oportunidades en: **Desarrollo Web · Desarrollo Backend · QA Testing
 
 - ✉️ estradabarreraleonelarnulfo@gmail.com
 - 🐙 [github.com/leonelestrada2025](https://github.com/leonelestrada2025)
+- <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fe279125-ec8d-4732-81e4-7ad49e5d8703" /><br>
 -<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/5c0e240f-e87b-4586-828b-0f961da8845f" />
-
-- <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fe279125-ec8d-4732-81e4-7ad49e5d8703" />
 
 
 ---
